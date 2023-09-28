@@ -1,0 +1,11 @@
+Searching for "prowly" on google.com, filtering by content category (everything, video, news).
+
+Case 1
+Title: Filtering by "everything"
+Goal: Filtering by everything show all results and is default
+Steps:
+1. Go to www.google.com / Google.com is open
+2. Insert "prowly" in searcharea / Google shows sample searching
+3. Click "Enter" / Browser show all results, you can see websides, images and location. 
+Realization: Manual
+Time: 1min
