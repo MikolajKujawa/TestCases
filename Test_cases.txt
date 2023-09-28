@@ -60,3 +60,20 @@ Steps:
 6. Choose "Last week" / Browser shows you the results from last week. You can see some videos, articles and websites
 Realization: Manual
 Time: 2min
+
+Case 3
+Title: Filtering by date range
+Goal: Filtering by date range shows only articles, websides and video obout Prowly for a given time range, isn't default
+Initial data: 
+-starting date: 09.09.2023
+-end date: 14.09.2023
+Steps: 
+1. Go to www.google.com / Google.com is open
+2. Insert "prowly" in searcharea / Google shows sample searching
+3. Click "Enter" / Browser shows all results, you can see websides, images and location
+4. Choose "Tools" / Browser shows another filters (language, date, results)
+5. Choose date filter / You can see the date range list 
+6. Choose "Date range" / Browser shows you modal with calendar
+7. Choose start and end date, click "OK" / Browser shows you the results from 09.09.2023 to 14.09.2023. You can see some videos, articles and websites
+Realization: Manual
+Time: 3min
