@@ -1,4 +1,4 @@
-Searching for "prowly" on google.com, filtering by content category (everything, images, news).
+A. Searching for "prowly" on google.com, filtering by content category (everything, images, news).
 
 Case 1
 Title: Filtering by "everything"
@@ -19,7 +19,7 @@ Steps:
 3. Click "Enter" / Browser shows all results, you can see websides, images and location
 4. Choose "Graphics" in filters / Browser shows only images, you see the logo, some screenshots and source pages
 Realization: Manual
-Time: 2min
+Time: 1min
 
 Case 3
 Title: Filtering by "news"
@@ -29,5 +29,21 @@ Steps:
 2. Insert "prowly" in searcharea / Google shows sample searching
 3. Click "Enter" / Browser shows all results, you can see websides, images and location
 4. Choose "The News" in filters / Browser shows only articles obout Prowly, you see title with links and short descriptions. On the right side every article has image.
+Realization: Manual
+Time: 1min
+
+
+B. Search for "prowly" on google.com filtered by date.
+
+Case 1
+Title: Filtering by "Last 24 hours"
+Goal: Filtering by last 24h shows only articles, websides and video obout Prowly from 24h ago, isn't default
+Steps: 
+1. Go to www.google.com / Google.com is open
+2. Insert "prowly" in searcharea / Google shows sample searching
+3. Click "Enter" / Browser shows all results, you can see websides, images and location
+4. Choose "Tools" / Browser shows another filters (language, date, results)
+5. Choose date filter / You can see the date range list 
+6. Choose "Last 24 hours" / Browser shows you the results from 24h. You can see some videos, articles and websites
 Realization: Manual
 Time: 2min
